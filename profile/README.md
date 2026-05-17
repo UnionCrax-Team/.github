@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🎮 UnionCrax Team
+#  The UnionCrax Team
 
-**Game utilities, launchers, and tools — built for the community.**
+*We prefer dangerous freedom over peaceful slavery.*
 
 [![Website](https://img.shields.io/badge/Website-union--crax.xyz-0078d4?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://union-crax.xyz)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://union-crax.xyz/discord)
@@ -14,18 +14,18 @@
 
 ## 👋 About Us
 
-We're **UnionCrax Team** — a small group of developers building open-source game tools, launchers, and utilities. Our focus is on:
+We're **UnionCrax Team**, a small group of developers building open-source game tools, launchers, and utilities. Our focus is on:
 
-- 🛠️ **Steam API tooling** — bypass and compatibility layers for game preservation
-- 🚀 **Game launchers** — fast, modern apps for managing and launching games
-- 🎮 **Controller APIs** — input handling for games without native Steam Input
-- 🔧 **Workshop tools** — mod and addon management made simple
+-  **Steam API tooling** - bypass and compatibility layers for game preservation
+-  **Game launchers** - fast, modern apps for managing and launching games
+-  **Controller APIs** - input handling for games without native Steam Input
+-  **Workshop tools** - mod and addon management made simple
 
 ---
 
-## 🗂️ Our Projects
+##  Our Projects
 
-### ⭐ Flagship Tools
+###  Flagship Tools
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ Custom Steam API `.dll` drop-in replacement that spoofs your game as Spacewar (o
 ![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/uc-online?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/UnionCrax-Team/uc-online?style=flat-square)
 
-The original Steam spoofer — makes Steam think you're playing Spacewar (App ID 480), enabling online multiplayer via the Spacewar lobby system. The foundation that started it all.
+The original Steam spoofer, makes Steam think you're playing Spacewar (App ID 480), enabling online multiplayer via the Spacewar lobby system. The foundation that started it all.
 
 `C++` · `Steam` · `Bypass` · `Multiplayer`
 
@@ -56,7 +56,7 @@ The original Steam spoofer — makes Steam think you're playing Spacewar (App ID
 </tr>
 </table>
 
-### 🖥️ Launchers & Apps
+###  Launchers & Apps
 
 <table>
 <tr>
@@ -86,7 +86,7 @@ Native launcher companion for UnionCrax.Direct. Handles game process launching a
 </tr>
 </table>
 
-### 🔌 Utilities & Extras
+###  Utilities & Extras
 
 <table>
 <tr>
@@ -105,7 +105,7 @@ Workshop mod & addon manager for games you "got". Browse, download, and install 
 #### [GCPad_API](https://github.com/UnionCrax-Team/GCPad_API)
 ![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/GCPad_API?style=flat-square)
 
-Controller input API modeled after Steam Input — captures controller inputs and exposes them via XInput/DInput/SDL2. Designed as a backend for frontends or games that don't want Steam.
+Controller input API modeled after Steam Input - captures controller inputs and exposes them via XInput/DInput/SDL2. Designed as a backend for frontends or games that don't want Steam.
 
 `C++` · `XInput` · `DInput` · `SDL2`
 
@@ -148,12 +148,12 @@ You're looking at it! Organization profile, community health files, and shared w
 
 ---
 
-## 📊 Stats
+##  Stats
 
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/Public%20Repos-8-0078d4?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/github/stars/UnionCrax-Team/uc-online?style=for-the-badge&label=uc-online%20⭐&color=ffd700)
+![Stars](https://img.shields.io/github/stars/UnionCrax-Team/unioncrax.direct?style=for-the-badge&label=UC.D%20⭐&color=ffd700)
 ![Stars](https://img.shields.io/github/stars/UnionCrax-Team/uc-online2?style=for-the-badge&label=uc-online2%20⭐&color=ffd700)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UnionCrax-Team&layout=compact&theme=dark&hide_border=true&title_color=0078d4&text_color=c9d1d9&bg_color=0d1117&langs_count=8)](https://github.com/UnionCrax-Team)
@@ -162,7 +162,7 @@ You're looking at it! Organization profile, community health files, and shared w
 
 ---
 
-## 🛠️ Tech We Use
+##  Tech We Use
 
 <div align="center">
 
@@ -183,14 +183,14 @@ You're looking at it! Organization profile, community health files, and shared w
 
 ---
 
-## 🤝 Get Involved
+##  Get Involved
 
-We welcome contributions, bug reports, and feature suggestions on any of our repos.
+We welcome contributions, bug reports, and feature suggestions on any of our public repos.
 
-- 🐛 **Found a bug?** Open an issue in the relevant repository.
-- 💡 **Have an idea?** Reach out on Discord — we love community input.
-- 🍴 **Want to fork?** Go for it. Check each repo's license for details.
-- 🎮 **Request a game?** Head to [union-crax.xyz](https://union-crax.xyz) and let us know.
+-  **Found a bug?** Open an issue in the relevant repository.
+-  **Have an idea?** Reach out on Discord, we love community input.
+-  **Want to fork?** Go for it. Check each repo's license for details.
+-  **Request a game?** Head to [union-crax.xyz](https://union-crax.xyz) and let us know.
 
 <div align="center">
 
