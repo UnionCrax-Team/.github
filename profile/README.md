@@ -48,7 +48,7 @@ Custom Steam API `.dll` drop-in replacement that spoofs your game as Spacewar (o
 ![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/uc-online?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/UnionCrax-Team/uc-online?style=flat-square)
 
-The original Steam spoofer, makes Steam think you're playing Spacewar (App ID 480), enabling online multiplayer via the Spacewar lobby system. The foundation that started it all.
+The original Steam spoofer, makes Steam think you're playing Spacewar (App ID 480), enabling online multiplayer via the Spacewar lobby system. Uses a separate launcher executable to work. The foundation that started it all.
 
 `C++` · `Steam` · `Bypass` · `Multiplayer`
 
@@ -95,7 +95,7 @@ Native launcher companion for UnionCrax.Direct. Handles game process launching a
 #### [WorkItOut](https://github.com/UnionCrax-Team/WorkItOut)
 ![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/WorkItOut?style=flat-square)
 
-Workshop mod & addon manager for games you "got". Browse, download, and install mods straight to any game's mod folder.
+Workshop mod & addon manager for games you "got". Browse, download, and install mods straight to any game's mod folder. 
 
 `TypeScript` · `Electron` · `Mods`
 
@@ -105,7 +105,7 @@ Workshop mod & addon manager for games you "got". Browse, download, and install 
 #### [GCPad_API](https://github.com/UnionCrax-Team/GCPad_API)
 ![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/GCPad_API?style=flat-square)
 
-Controller input API modeled after Steam Input - captures controller inputs and exposes them via XInput/DInput/SDL2. Designed as a backend for frontends or games that don't want Steam.
+Controller input API modeled after Steam Input - captures controller inputs through XInput / DInput / SDL2 / HID and translates them and remaps to custom outputs as well. Designed as a backend for frontends or games that don't use Steam from either using a Steam emu or not having Steam Input integrated.
 
 `C++` · `XInput` · `DInput` · `SDL2`
 
@@ -115,7 +115,7 @@ Controller input API modeled after Steam Input - captures controller inputs and 
 #### [shadps4_cli-launcher](https://github.com/UnionCrax-Team/shadps4_cli-launcher)
 ![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/shadps4_cli-launcher?style=flat-square)
 
-Minimal CLI launcher for ShadPS4 written in C and compiled with TCC. Lightweight wrapper for headless/script-driven emulator usage.
+Minimal launcher for ShadPS4-CLI written in C and compiled with TCC. Lightweight wrapper for running ROMs through the emulator without needing to use cmd with the arguments.
 
 `C` · `ShadPS4` · `CLI` · `TCC`
 
@@ -130,7 +130,7 @@ Minimal CLI launcher for ShadPS4 written in C and compiled with TCC. Lightweight
 #### [hla-novr-desteamed_UC](https://github.com/UnionCrax-Team/hla-novr-desteamed_UC)
 ![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/hla-novr-desteamed_UC?style=flat-square)
 
-HLA NoVR launcher without Steam launch requirements — launches `hlvr.exe` directly, bypassing Steam's game launch gating for Half-Life: Alyx.
+HLA NoVR Mod Launcher without Steam AppID launch requirements — runs `hlvr.exe` directly with the necessary arguments, bypassing Steam's game launch gating for Half-Life: Alyx.
 
 `GDScript` · `HLA` · `NoVR` · `Godot`
 
