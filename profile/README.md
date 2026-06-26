@@ -36,7 +36,7 @@ We're **UnionCrax Team**, a small group of developers building open-source game 
 ![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/uc-online2?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/UnionCrax-Team/uc-online2?style=flat-square)
 
-Custom Steam API `.dll` drop-in replacement that spoofs your game as Spacewar (or any free-to-play game). Features plugin loader, SteamStub bypass, Remote Storage fallback, and broad Steamworks.NET / Facepunch compatibility.
+Custom Steam API `.dll` drop-in replacement that spoofs your game as Spacewar (or any free-to-play game or any games you own already) by default. Features plugin loader, SteamStub bypass, Remote Storage fallback, and broad Steamworks.NET / Facepunch compatibility.
 
 `C++` · `Steam API` · `DLL` · `Spacewar`
 
@@ -51,6 +51,18 @@ Custom Steam API `.dll` drop-in replacement that spoofs your game as Spacewar (o
 The original Steam spoofer, makes Steam think you're playing Spacewar (App ID 480), enabling online multiplayer via the Spacewar lobby system. Uses a separate launcher executable to work. The foundation that started it all.
 
 `C++` · `Steam` · `Bypass` · `Multiplayer`
+
+</td>
+<td width="50%">
+
+#### [uc-online1.1](https://github.com/UnionCrax-Team/uc-online1.1)
+![Stars](https://img.shields.io/github/stars/UnionCrax-Team/uc-online1.1?style=flat-square&color=ffd700)
+![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/uc-online1.1?style=flat-square)
+![Issues](https://img.shields.io/github/issues/UnionCrax-Team/uc-online1.1?style=flat-square)
+
+A full rewrite and refactor of the old C# code for the very first version of uc-online but instead of loading the game's steam_api dlls, it goes straight for the steamclient dlls in your Steam installation path to truly achieve a universal fix like I originally intended it to be. It works as a separate launcher to the game once again, but this time it's easier to figure it out.
+
+`C#` · `SteamClient DLL` · `Launcher` · `Multiplayer`
 
 </td>
 </tr>
@@ -81,6 +93,16 @@ A fast Electron desktop app for browsing, downloading, and launching games from 
 Native launcher companion for UnionCrax.Direct. Handles game process launching and management on the C++ side for performance-critical operations.
 
 `C++` · `Launcher` · `UC.Direct`
+
+</td>
+<td width="50%">
+#### [uc.comms](https://github.com/unioncrax-team/uc-comms)
+![Stars](https://img.shields.io/github/stars/UnionCrax-Team/uc.comms?style=flat-square&color=ffd700)
+![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/uc.comms?style=flat-square)
+
+Docker deployable private chat you can self host and modify to your hearts content. Uses Lanyard API to connect to your discord account to give you your avatar and show your status. Web browser and PWA based, has an Android port and can be ported to iOS too, desktop app and the server that communicates with the webpage and connects all of clients. Very low data usage so it works great for limited networks and metered connections.
+
+`node.js` · `Rust` · `HTML + .js` · `Capacitor / Cordova`
 
 </td>
 </tr>
