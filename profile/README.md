@@ -72,7 +72,7 @@ A full rewrite and refactor of the old C# code for the very first version of uc-
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 #### [UnionCrax.Direct](https://github.com/UnionCrax-Team/UnionCrax.Direct)
 ![Stars](https://img.shields.io/github/stars/UnionCrax-Team/UnionCrax.Direct?style=flat-square&color=ffd700)
@@ -84,7 +84,7 @@ A fast Electron desktop app for browsing, downloading, and launching games from 
 `TypeScript` · `Electron` · `React` · `Vite`
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### [UnionCrax.Launcher](https://github.com/UnionCrax-Team/UnionCrax.Launcher)
 ![Stars](https://img.shields.io/github/stars/UnionCrax-Team/UnionCrax.Launcher?style=flat-square&color=ffd700)
@@ -95,7 +95,7 @@ Native launcher companion for UnionCrax.Direct. Handles game process launching a
 `C++` · `Launcher` · `UC.Direct`
 
 </td>
-<td width="50%">
+<td width="33%">
 #### [uc.comms](https://github.com/unioncrax-team/uc-comms)
 ![Stars](https://img.shields.io/github/stars/UnionCrax-Team/uc.comms?style=flat-square&color=ffd700)
 ![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/uc.comms?style=flat-square)
