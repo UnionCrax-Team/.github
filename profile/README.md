@@ -96,7 +96,8 @@ Native launcher companion for UnionCrax.Direct. Handles game process launching a
 
 </td>
 <td width="33%">
-#### [uc.comms](https://github.com/unioncrax-team/uc.comms)
+#### [uc.comms](https://github.com/UnionCrax-Team/uc.comms)
+  
 ![Stars](https://img.shields.io/github/stars/UnionCrax-Team/uc.comms?style=flat-square&color=ffd700)
 ![Language](https://img.shields.io/github/languages/top/UnionCrax-Team/uc.comms?style=flat-square)
 
